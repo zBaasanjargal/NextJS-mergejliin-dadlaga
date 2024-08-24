@@ -1,0 +1,20 @@
+{
+    "users": [
+    {
+      "id": "61d6",
+      "email": "zbaasanjargal@yahoo.com",
+      "password": "leoconner12$",
+      "role": "admin",
+      "image": "/images/2.jpg",
+      "name": "Баасанжаргал"
+    },
+    {
+      "id": "aa49",
+      "email": "sdadw@gmail.com",
+      "password": "baaska0321",
+      "role": "user",
+      "image": "/images/2.jpg",
+      "name": "Золжаргал"
+    }
+  ]
+}
